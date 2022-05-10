@@ -1,0 +1,10 @@
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\bin\Debug\PeopleAPICall.exe.config
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\bin\Debug\PeopleAPICall.exe
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\bin\Debug\PeopleAPICall.pdb
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\bin\Debug\Newtonsoft.Json.dll
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\bin\Debug\Newtonsoft.Json.xml
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\obj\Debug\PeopleAPICall.csproj.AssemblyReference.cache
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\obj\Debug\PeopleAPICall.csproj.CoreCompileInputs.cache
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\obj\Debug\PeopleAPICall.csproj.CopyComplete
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\obj\Debug\PeopleAPICall.exe
+C:\Development\PeopleAPI\PeopleFilmAPI\PeopleAPICall\obj\Debug\PeopleAPICall.pdb

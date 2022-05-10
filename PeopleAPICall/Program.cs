@@ -24,16 +24,9 @@ namespace PeopleAPICall
 
             Person person = Newtonsoft.Json.JsonConvert.DeserializeObject<Person>(Person_JSON);
 
-            var newPerson = person.results.GroupBy(u => u.films)
-                .Select(grp => grp.ToList())
-                .ToList();
-
-            var newFilm = newPerson.GroupBy(u => u.re)
-                .Select(grp => grp);
-
-            foreach (var result in newPerson)
+            foreach (var result in person.results)
             {
-                Console.WriteLine("{0}", result.k);
+                Console.WriteLine("{0}", result.name);
 
                 foreach (var resultPerson in result.films)
                 {
